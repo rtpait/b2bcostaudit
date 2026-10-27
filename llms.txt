@@ -109,3 +109,9 @@
 - [Google Workspace, Google Meet & Voice Pricing Audit: Per-Seat & Hidden Fees (2026)](https://b2bcostaudit.com/ucaas/google-workspace-meet-pricing-audit/) — Audits Business Starter (`$7/$8.40`), Standard (`$14/$16.80`), Plus (`$22/$26.40`), the `+100%` Starter-to-Standard recording upgrade cliff, Gemini AI inclusion, and Google Voice PSTN add-ons (`+$10/$20/$30/seat`).
 - **CC-BY-4.0 UCaaS & Collaboration Open Dataset (JSON):** https://b2bcostaudit.com/datasets/ucaas-collaboration-pricing-2026.json
 
+### New Sprint 2 Parity Expansion Routes (`v1.2.0` — 16 Total Canonical Routes)
+- https://b2bcostaudit.com/eo-insurance/directors-and-officers-do-insurance-cost-calculator/ — D&O Insurance Cost Calculator: Seed to Series C ($1.5k–$12k)
+- https://b2bcostaudit.com/eo-insurance/general-liability-and-bop-cost-calculator/ — General Liability & BOP Cost Calculator ($300–$1,800/yr)
+- https://b2bcostaudit.com/eo-insurance/workers-compensation-cost-calculator-by-state/ — 50-State Workers' Comp Cost Calculator (NCCI Class Rates)
+- https://b2bcostaudit.com/peo-benefits/justworks-vs-trinet-peo-cost-calculator/ — Justworks ($79–$109) vs TriNet PEO Cost Calculator (2026)
+- https://b2bcostaudit.com/commercial-costs/soc2-type-2-audit-and-pentest-cost-calculator/ — SOC 2 Type II Audit & Pentest Total Cost Calculator (2026)
