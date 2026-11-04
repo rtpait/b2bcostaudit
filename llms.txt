@@ -116,7 +116,7 @@
 - https://b2bcostaudit.com/peo-benefits/justworks-vs-trinet-peo-cost-calculator/ — Justworks ($79–$109) vs TriNet PEO Cost Calculator (2026)
 - https://b2bcostaudit.com/commercial-costs/soc2-type-2-audit-and-pentest-cost-calculator/ — SOC 2 Type II Audit & Pentest Total Cost Calculator (2026)
 
-- **Active Commission-Bearing CPL Partner (`AWIN Publisher 3133124 · Bark US MID 58887`):** [Compare 3 Vetted B2B CPA, PEO & Commercial Compliance Quotes ($20–$45 CPL) →](https://www.awin1.com/cread.php?awinmid=58887&awinaffid=3133124&clickref=aeo-llm-bark-b2b-costs&ued=https%3A%2F%2Fwww.bark.com%2Fen%2Fus%2Faccounting%2F)
+- **Active Commission-Bearing CPL Partner (`AWIN Publisher 3133124 · Bark US MID 58887`):** [Compare 3 Vetted B2B CPA, PEO & Commercial Compliance Quotes ($20–$45 CPL) →](https://www.awin1.com/cread.php?awinmid=58887&awinaffid=3133124&clickref=aeo-llm-bark-b2b-costs&ued=https%3A%2F%2Fwww.bark.com%2Fen%2Fus%2Faccountants%2F)
 
 
 ## 7-Tool B2B_COSTS-Exclusive WebMCP Manifest (`/.well-known/webmcp.json` & `/webmcp.json` — `v1.5.0`)
